@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # RAG Chat App
 
 A Retrieval-Augmented Generation (RAG) chat system with FastAPI backend and React frontend, supporting local documents (including Excel) and Azure OpenAI.
@@ -122,3 +123,6 @@ cd your-repo-name
 
 - Adjust the prompt in [`backend.py`](backend.py) to change agent behavior.
 - Add more document types or advanced logic as needed.
+=======
+# rag-chat-app
+>>>>>>> dc63b862b54aea93684f2915db83583135ecc962
